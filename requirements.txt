@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+groq
+gdown
+pydantic
+numpy
+pandas
+emoji
+optimum[onnxruntime]
