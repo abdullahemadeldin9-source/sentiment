@@ -6,4 +6,6 @@ pydantic
 numpy
 pandas
 emoji
+beautifulsoup4
+httpx
 optimum[onnxruntime]
